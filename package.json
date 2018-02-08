@@ -1,0 +1,24 @@
+{
+  "name": "ecoin",
+  "version": "1.0.0",
+  "description": "ecoin token",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "truffle-hdwallet-provider": "0.0.3",
+    "zeppelin-solidity": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecoin",
+    "token",
+    "erc20"
+  ],
+  "author": "ecoin.org",
+  "license": "ISC"
+}
